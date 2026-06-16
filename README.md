@@ -17,3 +17,7 @@ Thanks!
 The project can be built using [SharpDevelop](https://github.com/icsharpcode/SharpDevelop) - a feature-rich IDE for .NET Framework 4.0 (15 MB installer / ~55 MB after installation)
 
 Use version 4.4! Version 5 contains a ton of bugs.
+
+You can also build the project without installing anything. Open **cmd.exe** in the project folder and run the following command:
+
+`c:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe`
